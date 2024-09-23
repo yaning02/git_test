@@ -2,6 +2,6 @@
 
 int main()
 {
-	printf("Here is leon first test\r\n");
+	printf("Here is mikey first test\r\n");
 	return 0;
 }
